@@ -53,6 +53,18 @@
 <br>
 <hr>
 
+## ITMOA 개발범위 화면 목록 
+
+#### 사용자
+
+<img width="840" alt="ITMOA_개발화면범위_사용자" src="https://user-images.githubusercontent.com/56028408/78647414-87452e00-78f5-11ea-86e5-324c6be83784.png">
+
+#### 관리자
+
+<img width="836" alt="ITMOA_개발화면범위_관리자" src="https://user-images.githubusercontent.com/56028408/78647475-9b892b00-78f5-11ea-8f02-70cc96ba1815.png">
+
+<hr>
+
 ## ITMOA 데이터베이스 테이블 설계
 
 

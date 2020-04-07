@@ -50,3 +50,14 @@
   - ##### Months1은 필수 입력 항목이므로 미 입력 시 정보 변경 불가능 
   - ##### 클릭한 과정의 정보를 변경하고 삭제할 수 있음
 
+<br>
+<hr>
+
+## ITMOA 데이터베이스 테이블 설계
+
+
+<img width="686" alt="ITMOA_DB설계2" src="https://user-images.githubusercontent.com/56028408/78646934-c8890e00-78f4-11ea-9a8c-93c3f4f98bb5.png">
+
+
+<img width="699" alt="ITMOA_DB설계" src="https://user-images.githubusercontent.com/56028408/78646871-adb69980-78f4-11ea-8d67-a7a1b60b79fe.png">
+

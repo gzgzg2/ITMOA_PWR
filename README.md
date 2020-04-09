@@ -19,7 +19,6 @@
 ![user_gif](https://user-images.githubusercontent.com/56028408/78549744-d29c0580-783d-11ea-87d4-ad72a6a34ebc.gif)
 
 - #### 회원가입
-  - #### 회원가입
     - ##### form 에서 submit한 Parameter를 Command에 Request하여, Null이 아닌지와 자료형이 맞는지를 체크하고<br> 검증된 Parameter를 정규표현식으로 2차 검증 후, 중복된 데이터가 아니면 회원가입 승인
   - ##### 다음 우편번호 API 사용
   - ##### 정규표현식
